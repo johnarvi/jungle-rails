@@ -1,0 +1,13 @@
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/json-1.8.6/ext/json
+/home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-6990-au3k28.rb extconf.rb
+creating Makefile
+
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
