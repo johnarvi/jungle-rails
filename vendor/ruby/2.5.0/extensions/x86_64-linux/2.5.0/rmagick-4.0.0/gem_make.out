@@ -1,5 +1,9 @@
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/rmagick-4.0.0/ext/RMagick
+<<<<<<< HEAD
 /home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-22728-1xcr2wt.rb extconf.rb
+=======
+/home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-32259-rlxdu.rb extconf.rb
+>>>>>>> fix/admin-basic-auth
 checking for brew... yes
 checking for gcc... yes
 checking for pkg-config... yes
@@ -14,7 +18,11 @@ creating Makefile
 
 
 ======================================================================
+<<<<<<< HEAD
 Tue 10 Dec 19 15:40:32
+=======
+Tue 10 Dec 19 20:48:33
+>>>>>>> fix/admin-basic-auth
 This installation of RMagick 4.0.0 is configured for
 Ruby 2.5.2 (x86_64-linux) and ImageMagick 6.9.7
 ======================================================================
@@ -44,4 +52,8 @@ linking shared-object RMagick2.so
 
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/rmagick-4.0.0/ext/RMagick
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 RMagick2.so ./.gem.20191210-22728-12qdtq8
+=======
+/usr/bin/install -c -m 0755 RMagick2.so ./.gem.20191210-32259-1kwl14i
+>>>>>>> fix/admin-basic-auth

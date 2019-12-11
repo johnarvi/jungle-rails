@@ -1,9 +1,9 @@
+<% if (enhanced_cart.length > 0) %>
 <section class="cart-show">
 
   <header class="page-header">
     <h1>My Cart</h1>
   </header>
-
   <div class="panel panel-default items">
     <table class="table table-bordered">
       <thead>
@@ -25,7 +25,11 @@
             TOTAL:
           </th>
           <th>
+<<<<<<< HEAD
             <%= humanized_money_with_symbol (cart_subtotal_cents / 100.0) %>
+=======
+            <%= humanized_money_with_symbol cart_subtotal_cents / 100.0 %>
+>>>>>>> fix/admin-basic-auth
           </th>
         </tr>
       </tfoot>
@@ -48,5 +52,15 @@
       <% end %>
     </div>
   </div>
-
 </section>
+
+<% else %>
+
+<div class="alert alert-danger text-center" role="alert">
+  <h1><strong>Oh No</strong> Your Cart is empty.</h1>
+  <h2>Select an item to view in cart</h2>
+  <h3><a href="/"><strong>Back to Products<strong></a></h2>
+</div>
+
+<% end %>
+

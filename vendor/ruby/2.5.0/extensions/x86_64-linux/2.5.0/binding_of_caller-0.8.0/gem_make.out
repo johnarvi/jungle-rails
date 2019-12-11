@@ -1,5 +1,9 @@
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+<<<<<<< HEAD
 /home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-6990-18bvmu2.rb extconf.rb
+=======
+/home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-32259-tpfj40.rb extconf.rb
+>>>>>>> fix/admin-basic-auth
 
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
 make "DESTDIR=" clean

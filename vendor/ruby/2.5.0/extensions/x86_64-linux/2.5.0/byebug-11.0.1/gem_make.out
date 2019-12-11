@@ -1,5 +1,9 @@
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+<<<<<<< HEAD
 /home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-6990-1a33jcu.rb extconf.rb
+=======
+/home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-32259-151kand.rb extconf.rb
+>>>>>>> fix/admin-basic-auth
 creating Makefile
 
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
@@ -16,4 +20,8 @@ linking shared-object byebug/byebug.so
 
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 byebug.so ./.gem.20191210-6990-ypl1bc/byebug
+=======
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20191210-32259-1268ed3/byebug
+>>>>>>> fix/admin-basic-auth

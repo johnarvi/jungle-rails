@@ -1,5 +1,9 @@
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/nio4r-2.5.2/ext/nio4r
+<<<<<<< HEAD
 /home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-6990-ig94nd.rb extconf.rb
+=======
+/home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-32259-td7mpr.rb extconf.rb
+>>>>>>> fix/admin-basic-auth
 checking for unistd.h... yes
 checking for linux/aio_abi.h... yes
 checking for sys/select.h... yes
@@ -436,4 +440,8 @@ linking shared-object nio4r_ext.so
 
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/nio4r-2.5.2/ext/nio4r
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20191210-6990-1vc6174
+=======
+/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20191210-32259-1obmae
+>>>>>>> fix/admin-basic-auth

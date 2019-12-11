@@ -31,8 +31,13 @@ rubyhdrdir = $(includedir)/$(RUBY_VERSION_NAME)
 vendorarchdir = $(vendorlibdir)/$(sitearch)
 vendorlibdir = $(vendordir)/$(ruby_version)
 vendordir = $(rubylibprefix)/vendor_ruby
+<<<<<<< HEAD
 sitearchdir = $(DESTDIR)./.gem.20191210-6990-82af4f
 sitelibdir = $(DESTDIR)./.gem.20191210-6990-82af4f
+=======
+sitearchdir = $(DESTDIR)./.gem.20191210-32259-1nj43qb
+sitelibdir = $(DESTDIR)./.gem.20191210-32259-1nj43qb
+>>>>>>> fix/admin-basic-auth
 sitedir = $(rubylibprefix)/site_ruby
 rubyarchdir = $(rubylibdir)/$(arch)
 rubylibdir = $(rubylibprefix)/$(ruby_version)

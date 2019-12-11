@@ -1,5 +1,9 @@
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/bcrypt-3.1.13/ext/mri
+<<<<<<< HEAD
 /home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-6990-t6agn7.rb extconf.rb
+=======
+/home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-32259-gsylov.rb extconf.rb
+>>>>>>> fix/admin-basic-auth
 creating Makefile
 
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/bcrypt-3.1.13/ext/mri
@@ -16,4 +20,8 @@ linking shared-object bcrypt_ext.so
 
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/bcrypt-3.1.13/ext/mri
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 bcrypt_ext.so ./.gem.20191210-6990-82af4f
+=======
+/usr/bin/install -c -m 0755 bcrypt_ext.so ./.gem.20191210-32259-1nj43qb
+>>>>>>> fix/admin-basic-auth

@@ -137,7 +137,11 @@ extconf.h is:
 
 
 ======================================================================
+<<<<<<< HEAD
 Tue 10 Dec 19 15:40:32
+=======
+Tue 10 Dec 19 20:48:33
+>>>>>>> fix/admin-basic-auth
 This installation of RMagick 4.0.0 is configured for
 Ruby 2.5.2 (x86_64-linux) and ImageMagick 6.9.7
 ======================================================================

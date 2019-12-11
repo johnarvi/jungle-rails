@@ -1,5 +1,9 @@
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/ffi-1.11.3/ext/ffi_c
+<<<<<<< HEAD
 /home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-6990-1mmyrk9.rb extconf.rb
+=======
+/home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-32259-2tjj95.rb extconf.rb
+>>>>>>> fix/admin-basic-auth
 checking for ffi_call() in -lffi... yes
 checking for ffi_closure_alloc()... yes
 checking for shlwapi.h... no
@@ -44,4 +48,8 @@ linking shared-object ffi_c.so
 
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/ffi-1.11.3/ext/ffi_c
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 ffi_c.so ./.gem.20191210-6990-1pazo8n
+=======
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20191210-32259-rtcjzd
+>>>>>>> fix/admin-basic-auth

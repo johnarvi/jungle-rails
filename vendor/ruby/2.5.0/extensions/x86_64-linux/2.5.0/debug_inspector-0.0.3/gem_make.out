@@ -1,5 +1,9 @@
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+<<<<<<< HEAD
 /home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-6990-5rwt1l.rb extconf.rb
+=======
+/home/johnarvi/.rbenv/versions/2.5.2/bin/ruby -I /home/johnarvi/.rbenv/versions/2.5.2/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191210-32259-m153cf.rb extconf.rb
+>>>>>>> fix/admin-basic-auth
 creating Makefile
 
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
@@ -12,4 +16,8 @@ linking shared-object debug_inspector.so
 
 current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20191210-6990-1bdjzms
+=======
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20191210-32259-1a3llmb
+>>>>>>> fix/admin-basic-auth
