@@ -1,0 +1,19 @@
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.3.0/gems/byebug-11.0.1/ext/byebug
+/usr/share/rvm/rubies/ruby-2.3.5/bin/ruby -I /usr/share/rvm/rubies/ruby-2.3.5/lib/ruby/site_ruby/2.3.0 -r ./siteconf20191212-11538-k6bes8.rb extconf.rb
+creating Makefile
+
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.3.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.3.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling threads.c
+compiling breakpoint.c
+compiling byebug.c
+compiling locker.c
+compiling context.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.3.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20191212-11538-11ihnt5/byebug
