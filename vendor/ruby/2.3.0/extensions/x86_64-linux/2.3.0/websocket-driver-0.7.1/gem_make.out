@@ -1,0 +1,15 @@
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.3.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.3.5/bin/ruby -I /usr/share/rvm/rubies/ruby-2.3.5/lib/ruby/site_ruby/2.3.0 -r ./siteconf20191217-22406-1vfnkx4.rb extconf.rb
+creating Makefile
+
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.3.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.3.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/johnarvi/lighthouse/w9/jungle-rails/vendor/ruby/2.3.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20191217-22406-1voq4cl
