@@ -29,16 +29,16 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 ## Screenshots
 
 ### Home page showing all the 'Products'
-!["Product Page"](https:)
+!["Product Page"](https://github.com/johnarvi/jungle-rails/blob/master/docs/ProductsPage.png)
 
 ### Details page showing a selected 'product'
-!["Product Details"](https:)
+!["Product Details"](https://github.com/johnarvi/jungle-rails/blob/master/docs/ProductDetails.png)
 
 ### Cart - showing selected items
-!["Carts Page"](https:)
+!["Carts Page"](https://github.com/johnarvi/jungle-rails/blob/master/docs/Cart.png)
 
 ### Stripe - showing purchase window
-!["payment window"](https:)
+!["payment window"](https://github.com/johnarvi/jungle-rails/blob/master/docs/StripeCartPurchase.png)
 
 ### Empty Cart page - Error Handling
-!["Empy Cart Page"](https:)
+!["Empy Cart Page"](https://github.com/johnarvi/jungle-rails/blob/master/docs/EmptyCartPageErrorMsg.png)
