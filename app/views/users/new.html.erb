@@ -1,25 +1,18 @@
-<h1>Signup!</h1>
-
+<br>
+<div class="alert alert-success text-center" role="alert" style="background-color:whitesmoke">
 <%= form_for :user, url: '/users' do |f| %>
-
-  <ul>
-  <ul>First Name: </ul>
+  <ul><h1>Signup!</h1></ul>
+  <br>
+  <ul><h3>First Name:</h3></ul>
   <ul><%= f.text_field :first_name %></ul>
-  <br>
-  <ul>Last Name:</ul>
+  <ul><h3>Last Name:</h3></ul>
   <ul><%= f.text_field :last_name %></ul>
-  <br>
-  <ul>Email:</ul>
+  <ul><h3>Email:</h3></ul>
   <ul><%= f.text_field :email %></ul>
-  <br>
-  
-  <ul>Password:</ul>
+  <ul><h3>Password:</h3></ul>
   <ul><%= f.password_field :password %></ul>
-  <br>
-  <ul>Password Confirmation:</ul>
+  <ul><h3>Password Confirmation:</h3></ul>
   <ul><%= f.password_field :password_confirmation %></ul>
-  <br>
   <ul><%= f.submit "Submit" %></ul>
-  </ul>
 <% end %>
-
+</div>
