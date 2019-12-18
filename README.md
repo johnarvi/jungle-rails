@@ -25,3 +25,20 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+
+### Home page showing all the 'Products'
+!["Product Page"](https:)
+
+### Details page showing a selected 'product'
+!["Product Details"](https:)
+
+### Cart - showing selected items
+!["Carts Page"](https:)
+
+### Stripe - showing purchase window
+!["payment window"](https:)
+
+### Empty Cart page - Error Handling
+!["Empy Cart Page"](https:)
